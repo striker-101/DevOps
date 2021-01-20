@@ -1,7 +1,7 @@
-# DevOps
+# DevOps_Terraform
 
 Tech->
 #1 Terraform
 #2 Kubernates
 #3 Ansible
-# Jenkins/CodeBuild
+#4 Jenkins/CodeBuild
